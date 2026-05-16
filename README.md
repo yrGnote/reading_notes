@@ -1,4 +1,4 @@
-# quant_notes
+# reading_notes
 
 This repository contains my notes on:
 
